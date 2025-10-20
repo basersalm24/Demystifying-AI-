@@ -1,0 +1,5 @@
+{
+  "name": "Demystifying AI (فك رموز الذكاء الاصطناعي)",
+  "description": "An interactive web application that uses Google's Gemini API to explain complex Artificial Intelligence concepts in simple, easy-to-understand Arabic. Users can either search for a specific term or select from a list of common AI topics to get a clear and concise explanation.",
+  "requestFramePermissions": []
+}
